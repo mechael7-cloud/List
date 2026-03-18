@@ -26,8 +26,8 @@ function addList () {
         list.appendChild(teks);
         list.appendChild(tbl);
         list.appendChild(span);
-        list.appendChild(garis);
-
+        
+        
         isiInput.value = "";
     } else {
         alert("WAJIB DI ISI")
